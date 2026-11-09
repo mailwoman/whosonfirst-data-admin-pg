@@ -36,8 +36,7 @@
     "wof:belongsto":[
         102191583,
         85632347,
-        85676581,
-        1091703859
+        85676581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +57,7 @@
     "wof:id":1226711751,
     "wof:lastmodified":1566678873,
     "wof:name":"Gerehu",
-    "wof:parent_id":1091703859,
+    "wof:parent_id":85676581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pg",
     "wof:superseded_by":[],

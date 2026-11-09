@@ -37,8 +37,7 @@
     "wof:belongsto":[
         102191583,
         85632347,
-        85676581,
-        1091703859
+        85676581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +57,7 @@
     "wof:id":1360059851,
     "wof:lastmodified":1566678529,
     "wof:name":"9 Mile",
-    "wof:parent_id":1091703859,
+    "wof:parent_id":85676581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pg",
     "wof:superseded_by":[],

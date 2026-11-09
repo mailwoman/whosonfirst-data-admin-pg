@@ -45,8 +45,7 @@
     "wof:belongsto":[
         102191583,
         85632347,
-        85676581,
-        1091703859
+        85676581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +65,7 @@
     "wof:id":1226446691,
     "wof:lastmodified":1566678816,
     "wof:name":"Roku",
-    "wof:parent_id":1091703859,
+    "wof:parent_id":85676581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pg",
     "wof:superseded_by":[],
